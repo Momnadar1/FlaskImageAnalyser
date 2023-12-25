@@ -52,10 +52,6 @@ YOUR_ML_MODEL_API_KEY=your_ml_model_api_key
 
 ### Making API Requests
 
-    ```bash
     curl -X POST -H "Content-Type: application/json" -d '{"keyword": "mountains"}' http://127.0.0.1:5000/search_and_analyze
-    ```
 
-    ```bash
     curl -X POST -F "image=@/path/to/your/image.jpg" http://127.0.0.1:5000/upload_and_analyze
-    ```"# FlaskImageAnalyser" 
