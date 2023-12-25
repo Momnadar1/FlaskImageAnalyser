@@ -46,8 +46,8 @@ Create a `.env` file in the project root and add the following content:
 
 ```plaintext
 # Add any other necessary environment variables
-YOUR_SOCIAL_NETWORK_API_KEY=your_social_network_api_key
-YOUR_ML_MODEL_API_KEY=your_ml_model_api_key
+YOUR_USERNAME='insta_username'
+YOUR_PASSWORD='insta_username'
 ```
 
 ### Making API Requests
