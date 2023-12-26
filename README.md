@@ -47,7 +47,7 @@ Create a `.env` file in the project root and add the following content:
 ```plaintext
 # Add any other necessary environment variables
 YOUR_USERNAME='insta_username'
-YOUR_PASSWORD='insta_username'
+YOUR_PASSWORD='insta_password'
 ```
 
 ### Making API Requests
