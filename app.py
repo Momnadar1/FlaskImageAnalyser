@@ -46,7 +46,6 @@ def upload_and_analyze():
 
 def social_network_crawler(keyword):
     cl = Client()
-    # cl.login('momnadar1', 'momnadar1234')
     print(os.environ.get('YOUR_USERNAME'), os.environ.get('YOUR_PASSWORD'))
     cl.login(os.environ.get('YOUR_USERNAME'), os.environ.get('YOUR_PASSWORD'))
 
